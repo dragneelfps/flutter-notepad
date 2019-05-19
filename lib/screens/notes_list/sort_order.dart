@@ -1,0 +1,1 @@
+enum SortOrder { DEFAULT, CATEGORY, DATE, TEXT }
